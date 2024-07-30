@@ -1,66 +1,93 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Orange Box API
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Descripción
 
-## About Laravel
+Orange Box API es una aplicación backend desarrollada en Laravel, que proporciona endpoints para la gestión de productos y proveedores.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Requisitos Previos
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Docker y Docker Compose
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Instalación
 
-## Learning Laravel
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/Alfaro-dev/doctor-lenguaje-api.git
+   cd orange-box-backend
+   ```
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+2. Copiar el archivo de configuración de ejemplo y configurar las variables de entorno:
+   ```bash
+   cp .env.example .env
+   ```
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+3. Configurar las variables de entorno en el archivo `.env`:
+   ```dotenv
+   DB_CONNECTION=pgsql
+   DB_HOST=pgsql
+   DB_PORT=5432
+   DB_DATABASE=nombre_de_tu_base_de_datos
+   DB_USERNAME=tu_usuario
+   DB_PASSWORD=tu_contraseña
+   ```
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+4. Iniciar Docker Sail:
+   ```bash
+   ./vendor/bin/sail up -d
+   ```
+   
+5. Ejecutar las migraciones y seeders para crear las tablas y datos de ejemplo:
+   ```bash
+   ./vendor/bin/sail artisan migrate --seed
+   ```
 
-## Laravel Sponsors
+## Endpoints de la API
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### Productos
 
-### Premium Partners
+- `GET /products`: Obtener todos los productos.
+- `GET /products/{id}`: Obtener un producto por su ID.
+- `POST /products`: Crear un nuevo producto.
+- `PUT /products/{id}`: Actualizar un producto existente.
+- `DELETE /products/{id}`: Eliminar un producto.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### Proveedores
 
-## Contributing
+- `GET /providers`: Obtener todos los proveedores.
+- `GET /providers/{id}`: Obtener un proveedor por su ID.
+- `POST /providers`: Crear un nuevo proveedor.
+- `PUT /providers/{id}`: Actualizar un proveedor existente.
+- `DELETE /providers/{id}`: Eliminar un proveedor.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Uso de Postman
 
-## Code of Conduct
+1. Importar la colección de Postman proporcionada en el archivo `Orange Box Api.postman_collection`.
+2. Asegurarse de que la URL base esté configurada correctamente según el entorno de desarrollo.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Despliegue
 
-## Security Vulnerabilities
+El proyecto ha sido desplegado exitosamente en Render y puede ser accedido en la siguiente URL:
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+[Orange Box API](https://orange-box-api.onrender.com)
 
-## License
+## Estructura del Proyecto
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+```
+orange-box-backend/
+├── app/
+├── bootstrap/
+├── config/
+├── database/
+│   ├── data/
+│   │   ├── products.json
+│   │   └── providers.json
+├── public/
+├── resources/
+├── routes/
+│   ├── api.php
+├── storage/
+├── tests/
+├── docker-compose.yml
+├── .env.example
+└── README.md
+```
