@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "Acme Corp",
+        "address": "123 Elm Street",
+        "phone": "555-123-4567",
+        "description": "Leading supplier of industrial widgets."
+    },
+    {
+        "id": 2,
+        "name": "Globex Corporation",
+        "address": "456 Maple Avenue",
+        "phone": "555-234-5678",
+        "description": "Supplier of high-quality electronic components."
+    },
+    {
+        "id": 3,
+        "name": "Soylent Corp",
+        "address": "789 Oak Drive",
+        "phone": "555-345-6789",
+        "description": "Provider of sustainable food products."
+    },
+    {
+        "id": 4,
+        "name": "Initech",
+        "address": "101 Pine Street",
+        "phone": "555-456-7890",
+        "description": "Software development and IT services."
+    },
+    {
+        "id": 5,
+        "name": "Umbrella Corp",
+        "address": "202 Birch Lane",
+        "phone": "555-567-8901",
+        "description": "Biotechnology and pharmaceutical products."
+    },
+    {
+        "id": 6,
+        "name": "Hooli",
+        "address": "303 Cedar Road",
+        "phone": "555-678-9012",
+        "description": "Innovative tech solutions and services."
+    },
+    {
+        "id": 7,
+        "name": "Vandelay Industries",
+        "address": "404 Spruce Street",
+        "phone": "555-789-0123",
+        "description": "Import and export of latex products."
+    },
+    {
+        "id": 8,
+        "name": "Stark Industries",
+        "address": "505 Willow Way",
+        "phone": "555-890-1234",
+        "description": "Cutting-edge technology and defense systems."
+    },
+    {
+        "id": 9,
+        "name": "Wayne Enterprises",
+        "address": "606 Aspen Avenue",
+        "phone": "555-901-2345",
+        "description": "Diverse holdings in various industries."
+    },
+    {
+        "id": 10,
+        "name": "Wonka Industries",
+        "address": "707 Redwood Road",
+        "phone": "555-012-3456",
+        "description": "Innovative confectionery products."
+    },
+    {
+        "id": 11,
+        "name": "MomCorp",
+        "address": "808 Fir Street",
+        "phone": "555-123-4567",
+        "description": "Futuristic consumer products and robotics."
+    },
+    {
+        "id": 12,
+        "name": "Tyrell Corporation",
+        "address": "909 Elmwood Drive",
+        "phone": "555-234-5678",
+        "description": "Genetic engineering and bio-robotics."
+    },
+    {
+        "id": 13,
+        "name": "Cyberdyne Systems",
+        "address": "1010 Ash Lane",
+        "phone": "555-345-6789",
+        "description": "Advanced AI and robotics."
+    },
+    {
+        "id": 14,
+        "name": "Virtucon",
+        "address": "1111 Maple Street",
+        "phone": "555-456-7890",
+        "description": "Global conglomerate with diverse interests."
+    },
+    {
+        "id": 15,
+        "name": "LexCorp",
+        "address": "1212 Pine Avenue",
+        "phone": "555-567-8901",
+        "description": "Energy, tech, and real estate investments."
+    },
+    {
+        "id": 16,
+        "name": "Oscorp",
+        "address": "1313 Birch Drive",
+        "phone": "555-678-9012",
+        "description": "Leading innovator in genetic research."
+    },
+    {
+        "id": 17,
+        "name": "Palmer Technologies",
+        "address": "1414 Cedar Street",
+        "phone": "555-789-0123",
+        "description": "Pioneering advanced technology solutions."
+    },
+    {
+        "id": 18,
+        "name": "Consolidated Edison",
+        "address": "1515 Spruce Lane",
+        "phone": "555-890-1234",
+        "description": "Major energy supplier."
+    },
+    {
+        "id": 19,
+        "name": "Encom",
+        "address": "1616 Willow Avenue",
+        "phone": "555-901-2345",
+        "description": "Innovative software and video games."
+    },
+    {
+        "id": 20,
+        "name": "Massive Dynamic",
+        "address": "1717 Aspen Road",
+        "phone": "555-012-3456",
+        "description": "Leading edge science and technology."
+    },
+    {
+        "id": 21,
+        "name": "Roxxon",
+        "address": "1818 Redwood Street",
+        "phone": "555-123-4567",
+        "description": "Oil and gas conglomerate."
+    },
+    {
+        "id": 22,
+        "name": "Blue Sun Corporation",
+        "address": "1919 Fir Lane",
+        "phone": "555-234-5678",
+        "description": "Diverse consumer products."
+    },
+    {
+        "id": 23,
+        "name": "Weyland-Yutani",
+        "address": "2020 Elmwood Street",
+        "phone": "555-345-6789",
+        "description": "Interstellar engineering and R&D."
+    },
+    {
+        "id": 24,
+        "name": "Yoyodyne Propulsion Systems",
+        "address": "2121 Ash Road",
+        "phone": "555-456-7890",
+        "description": "Advanced propulsion and aerospace."
+    },
+    {
+        "id": 25,
+        "name": "Oceanic Airlines",
+        "address": "2222 Maple Drive",
+        "phone": "555-567-8901",
+        "description": "Global airline with numerous destinations."
+    }
+]

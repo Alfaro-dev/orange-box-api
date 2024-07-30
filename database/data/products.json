@@ -1,0 +1,2002 @@
+[
+    {
+      "id": 1,
+      "name": "Widget A",
+      "price": 10.99,
+      "stock": 100,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Gadget B",
+      "price": 15.99,
+      "stock": 200,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Food Product C",
+      "price": 8.99,
+      "stock": 150,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 4,
+      "name": "Software Suite D",
+      "price": 99.99,
+      "stock": 50,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 5,
+      "name": "Pharma E",
+      "price": 25.99,
+      "stock": 300,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 6,
+      "name": "Tech Solution F",
+      "price": 49.99,
+      "stock": 120,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 7,
+      "name": "Latex Product G",
+      "price": 5.99,
+      "stock": 500,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 8,
+      "name": "Defense System H",
+      "price": 150.99,
+      "stock": 30,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 9,
+      "name": "Diverse Product I",
+      "price": 20.99,
+      "stock": 250,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 10,
+      "name": "Confectionery J",
+      "price": 3.99,
+      "stock": 600,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 11,
+      "name": "Robotics K",
+      "price": 199.99,
+      "stock": 40,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 12,
+      "name": "Bio-Robotic L",
+      "price": 75.99,
+      "stock": 70,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 13,
+      "name": "AI System M",
+      "price": 120.99,
+      "stock": 55,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 14,
+      "name": "Global Product N",
+      "price": 85.99,
+      "stock": 80,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 15,
+      "name": "Energy Solution O",
+      "price": 60.99,
+      "stock": 95,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 16,
+      "name": "Genetic Research P",
+      "price": 45.99,
+      "stock": 110,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 17,
+      "name": "Tech Q",
+      "price": 55.99,
+      "stock": 140,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 18,
+      "name": "Energy Supply R",
+      "price": 30.99,
+      "stock": 160,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 19,
+      "name": "Software S",
+      "price": 70.99,
+      "stock": 105,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 20,
+      "name": "Science T",
+      "price": 90.99,
+      "stock": 75,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 21,
+      "name": "Oil and Gas U",
+      "price": 50.99,
+      "stock": 130,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 22,
+      "name": "Consumer Product V",
+      "price": 40.99,
+      "stock": 145,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 23,
+      "name": "Engineering W",
+      "price": 65.99,
+      "stock": 85,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 24,
+      "name": "Aerospace X",
+      "price": 105.99,
+      "stock": 50,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 25,
+      "name": "Airline Y",
+      "price": 25.99,
+      "stock": 210,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 26,
+      "name": "Widget A1",
+      "price": 11.99,
+      "stock": 101,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 27,
+      "name": "Gadget B1",
+      "price": 16.99,
+      "stock": 201,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 28,
+      "name": "Food Product C1",
+      "price": 9.99,
+      "stock": 151,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 29,
+      "name": "Software Suite D1",
+      "price": 100.99,
+      "stock": 51,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 30,
+      "name": "Pharma E1",
+      "price": 26.99,
+      "stock": 301,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 31,
+      "name": "Tech Solution F1",
+      "price": 50.99,
+      "stock": 121,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 32,
+      "name": "Latex Product G1",
+      "price": 6.99,
+      "stock": 501,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 33,
+      "name": "Defense System H1",
+      "price": 151.99,
+      "stock": 31,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 34,
+      "name": "Diverse Product I1",
+      "price": 21.99,
+      "stock": 251,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 35,
+      "name": "Confectionery J1",
+      "price": 4.99,
+      "stock": 601,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 36,
+      "name": "Robotics K1",
+      "price": 200.99,
+      "stock": 41,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 37,
+      "name": "Bio-Robotic L1",
+      "price": 76.99,
+      "stock": 71,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 38,
+      "name": "AI System M1",
+      "price": 121.99,
+      "stock": 56,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 39,
+      "name": "Global Product N1",
+      "price": 86.99,
+      "stock": 81,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 40,
+      "name": "Energy Solution O1",
+      "price": 61.99,
+      "stock": 96,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 41,
+      "name": "Genetic Research P1",
+      "price": 46.99,
+      "stock": 111,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 42,
+      "name": "Tech Q1",
+      "price": 56.99,
+      "stock": 141,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 43,
+      "name": "Energy Supply R1",
+      "price": 31.99,
+      "stock": 161,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 44,
+      "name": "Software S1",
+      "price": 71.99,
+      "stock": 106,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 45,
+      "name": "Science T1",
+      "price": 91.99,
+      "stock": 76,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 46,
+      "name": "Oil and Gas U1",
+      "price": 51.99,
+      "stock": 131,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 47,
+      "name": "Consumer Product V1",
+      "price": 41.99,
+      "stock": 146,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 48,
+      "name": "Engineering W1",
+      "price": 66.99,
+      "stock": 86,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 49,
+      "name": "Aerospace X1",
+      "price": 106.99,
+      "stock": 51,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 50,
+      "name": "Airline Y1",
+      "price": 26.99,
+      "stock": 211,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 51,
+      "name": "Widget A2",
+      "price": 12.99,
+      "stock": 102,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 52,
+      "name": "Gadget B2",
+      "price": 17.99,
+      "stock": 202,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 53,
+      "name": "Food Product C2",
+      "price": 10.99,
+      "stock": 152,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 54,
+      "name": "Software Suite D2",
+      "price": 101.99,
+      "stock": 52,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 55,
+      "name": "Pharma E2",
+      "price": 27.99,
+      "stock": 302,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 56,
+      "name": "Tech Solution F2",
+      "price": 51.99,
+      "stock": 122,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 57,
+      "name": "Latex Product G2",
+      "price": 7.99,
+      "stock": 502,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 58,
+      "name": "Defense System H2",
+      "price": 152.99,
+      "stock": 32,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 59,
+      "name": "Diverse Product I2",
+      "price": 22.99,
+      "stock": 252,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 60,
+      "name": "Confectionery J2",
+      "price": 5.99,
+      "stock": 602,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 61,
+      "name": "Robotics K2",
+      "price": 201.99,
+      "stock": 42,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 62,
+      "name": "Bio-Robotic L2",
+      "price": 77.99,
+      "stock": 72,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 63,
+      "name": "AI System M2",
+      "price": 122.99,
+      "stock": 57,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 64,
+      "name": "Global Product N2",
+      "price": 87.99,
+      "stock": 82,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 65,
+      "name": "Energy Solution O2",
+      "price": 62.99,
+      "stock": 97,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 66,
+      "name": "Genetic Research P2",
+      "price": 47.99,
+      "stock": 112,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 67,
+      "name": "Tech Q2",
+      "price": 57.99,
+      "stock": 142,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 68,
+      "name": "Energy Supply R2",
+      "price": 32.99,
+      "stock": 162,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 69,
+      "name": "Software S2",
+      "price": 72.99,
+      "stock": 107,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 70,
+      "name": "Science T2",
+      "price": 92.99,
+      "stock": 77,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 71,
+      "name": "Oil and Gas U2",
+      "price": 52.99,
+      "stock": 132,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 72,
+      "name": "Consumer Product V2",
+      "price": 42.99,
+      "stock": 147,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 73,
+      "name": "Engineering W2",
+      "price": 67.99,
+      "stock": 87,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 74,
+      "name": "Aerospace X2",
+      "price": 107.99,
+      "stock": 52,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 75,
+      "name": "Airline Y2",
+      "price": 27.99,
+      "stock": 212,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 76,
+      "name": "Widget A3",
+      "price": 13.99,
+      "stock": 103,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 77,
+      "name": "Gadget B3",
+      "price": 18.99,
+      "stock": 203,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 78,
+      "name": "Food Product C3",
+      "price": 11.99,
+      "stock": 153,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 79,
+      "name": "Software Suite D3",
+      "price": 102.99,
+      "stock": 53,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 80,
+      "name": "Pharma E3",
+      "price": 28.99,
+      "stock": 303,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 81,
+      "name": "Tech Solution F3",
+      "price": 52.99,
+      "stock": 123,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 82,
+      "name": "Latex Product G3",
+      "price": 8.99,
+      "stock": 503,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 83,
+      "name": "Defense System H3",
+      "price": 153.99,
+      "stock": 33,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 84,
+      "name": "Diverse Product I3",
+      "price": 23.99,
+      "stock": 253,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 85,
+      "name": "Confectionery J3",
+      "price": 6.99,
+      "stock": 603,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 86,
+      "name": "Robotics K3",
+      "price": 202.99,
+      "stock": 43,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 87,
+      "name": "Bio-Robotic L3",
+      "price": 78.99,
+      "stock": 73,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 88,
+      "name": "AI System M3",
+      "price": 123.99,
+      "stock": 58,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 89,
+      "name": "Global Product N3",
+      "price": 88.99,
+      "stock": 83,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 90,
+      "name": "Energy Solution O3",
+      "price": 63.99,
+      "stock": 98,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 91,
+      "name": "Genetic Research P3",
+      "price": 48.99,
+      "stock": 113,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 92,
+      "name": "Tech Q3",
+      "price": 58.99,
+      "stock": 143,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 93,
+      "name": "Energy Supply R3",
+      "price": 33.99,
+      "stock": 163,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 94,
+      "name": "Software S3",
+      "price": 73.99,
+      "stock": 108,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 95,
+      "name": "Science T3",
+      "price": 93.99,
+      "stock": 78,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 96,
+      "name": "Oil and Gas U3",
+      "price": 53.99,
+      "stock": 133,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 97,
+      "name": "Consumer Product V3",
+      "price": 43.99,
+      "stock": 148,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 98,
+      "name": "Engineering W3",
+      "price": 68.99,
+      "stock": 88,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 99,
+      "name": "Aerospace X3",
+      "price": 108.99,
+      "stock": 53,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 100,
+      "name": "Airline Y3",
+      "price": 28.99,
+      "stock": 213,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 101,
+      "name": "Widget A4",
+      "price": 14.99,
+      "stock": 104,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 102,
+      "name": "Gadget B4",
+      "price": 19.99,
+      "stock": 204,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 103,
+      "name": "Food Product C4",
+      "price": 12.99,
+      "stock": 154,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 104,
+      "name": "Software Suite D4",
+      "price": 103.99,
+      "stock": 54,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 105,
+      "name": "Pharma E4",
+      "price": 29.99,
+      "stock": 304,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 106,
+      "name": "Tech Solution F4",
+      "price": 53.99,
+      "stock": 124,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 107,
+      "name": "Latex Product G4",
+      "price": 9.99,
+      "stock": 504,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 108,
+      "name": "Defense System H4",
+      "price": 154.99,
+      "stock": 34,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 109,
+      "name": "Diverse Product I4",
+      "price": 24.99,
+      "stock": 254,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 110,
+      "name": "Confectionery J4",
+      "price": 7.99,
+      "stock": 604,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 111,
+      "name": "Robotics K4",
+      "price": 203.99,
+      "stock": 44,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 112,
+      "name": "Bio-Robotic L4",
+      "price": 79.99,
+      "stock": 74,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 113,
+      "name": "AI System M4",
+      "price": 124.99,
+      "stock": 59,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 114,
+      "name": "Global Product N4",
+      "price": 89.99,
+      "stock": 84,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 115,
+      "name": "Energy Solution O4",
+      "price": 64.99,
+      "stock": 99,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 116,
+      "name": "Genetic Research P4",
+      "price": 49.99,
+      "stock": 114,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 117,
+      "name": "Tech Q4",
+      "price": 59.99,
+      "stock": 144,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 118,
+      "name": "Energy Supply R4",
+      "price": 34.99,
+      "stock": 164,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 119,
+      "name": "Software S4",
+      "price": 74.99,
+      "stock": 109,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 120,
+      "name": "Science T4",
+      "price": 94.99,
+      "stock": 79,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 121,
+      "name": "Oil and Gas U4",
+      "price": 54.99,
+      "stock": 134,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 122,
+      "name": "Consumer Product V4",
+      "price": 44.99,
+      "stock": 149,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 123,
+      "name": "Engineering W4",
+      "price": 69.99,
+      "stock": 89,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 124,
+      "name": "Aerospace X4",
+      "price": 109.99,
+      "stock": 54,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 125,
+      "name": "Airline Y4",
+      "price": 29.99,
+      "stock": 214,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 126,
+      "name": "Widget A5",
+      "price": 15.99,
+      "stock": 105,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 127,
+      "name": "Gadget B5",
+      "price": 20.99,
+      "stock": 205,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 128,
+      "name": "Food Product C5",
+      "price": 13.99,
+      "stock": 155,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 129,
+      "name": "Software Suite D5",
+      "price": 104.99,
+      "stock": 55,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 130,
+      "name": "Pharma E5",
+      "price": 30.99,
+      "stock": 305,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 131,
+      "name": "Tech Solution F5",
+      "price": 54.99,
+      "stock": 125,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 132,
+      "name": "Latex Product G5",
+      "price": 10.99,
+      "stock": 505,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 133,
+      "name": "Defense System H5",
+      "price": 155.99,
+      "stock": 35,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 134,
+      "name": "Diverse Product I5",
+      "price": 25.99,
+      "stock": 255,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 135,
+      "name": "Confectionery J5",
+      "price": 8.99,
+      "stock": 605,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 136,
+      "name": "Robotics K5",
+      "price": 204.99,
+      "stock": 45,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 137,
+      "name": "Bio-Robotic L5",
+      "price": 80.99,
+      "stock": 75,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 138,
+      "name": "AI System M5",
+      "price": 125.99,
+      "stock": 60,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 139,
+      "name": "Global Product N5",
+      "price": 90.99,
+      "stock": 85,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 140,
+      "name": "Energy Solution O5",
+      "price": 65.99,
+      "stock": 100,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 141,
+      "name": "Genetic Research P5",
+      "price": 50.99,
+      "stock": 115,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 142,
+      "name": "Tech Q5",
+      "price": 60.99,
+      "stock": 145,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 143,
+      "name": "Energy Supply R5",
+      "price": 35.99,
+      "stock": 165,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 144,
+      "name": "Software S5",
+      "price": 75.99,
+      "stock": 110,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 145,
+      "name": "Science T5",
+      "price": 95.99,
+      "stock": 80,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 146,
+      "name": "Oil and Gas U5",
+      "price": 55.99,
+      "stock": 135,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 147,
+      "name": "Consumer Product V5",
+      "price": 45.99,
+      "stock": 150,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 148,
+      "name": "Engineering W5",
+      "price": 70.99,
+      "stock": 90,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 149,
+      "name": "Aerospace X5",
+      "price": 110.99,
+      "stock": 55,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 150,
+      "name": "Airline Y5",
+      "price": 30.99,
+      "stock": 215,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 151,
+      "name": "Widget A6",
+      "price": 16.99,
+      "stock": 106,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 152,
+      "name": "Gadget B6",
+      "price": 21.99,
+      "stock": 206,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 153,
+      "name": "Food Product C6",
+      "price": 14.99,
+      "stock": 156,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 154,
+      "name": "Software Suite D6",
+      "price": 105.99,
+      "stock": 56,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 155,
+      "name": "Pharma E6",
+      "price": 31.99,
+      "stock": 306,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 156,
+      "name": "Tech Solution F6",
+      "price": 55.99,
+      "stock": 126,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 157,
+      "name": "Latex Product G6",
+      "price": 11.99,
+      "stock": 506,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 158,
+      "name": "Defense System H6",
+      "price": 156.99,
+      "stock": 36,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 159,
+      "name": "Diverse Product I6",
+      "price": 26.99,
+      "stock": 256,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 160,
+      "name": "Confectionery J6",
+      "price": 9.99,
+      "stock": 606,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 161,
+      "name": "Robotics K6",
+      "price": 205.99,
+      "stock": 46,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 162,
+      "name": "Bio-Robotic L6",
+      "price": 81.99,
+      "stock": 76,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 163,
+      "name": "AI System M6",
+      "price": 126.99,
+      "stock": 61,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 164,
+      "name": "Global Product N6",
+      "price": 91.99,
+      "stock": 86,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 165,
+      "name": "Energy Solution O6",
+      "price": 66.99,
+      "stock": 101,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 166,
+      "name": "Genetic Research P6",
+      "price": 51.99,
+      "stock": 116,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 167,
+      "name": "Tech Q6",
+      "price": 61.99,
+      "stock": 146,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 168,
+      "name": "Energy Supply R6",
+      "price": 36.99,
+      "stock": 166,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 169,
+      "name": "Software S6",
+      "price": 76.99,
+      "stock": 111,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 170,
+      "name": "Science T6",
+      "price": 96.99,
+      "stock": 81,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 171,
+      "name": "Oil and Gas U6",
+      "price": 56.99,
+      "stock": 136,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 172,
+      "name": "Consumer Product V6",
+      "price": 46.99,
+      "stock": 151,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 173,
+      "name": "Engineering W6",
+      "price": 71.99,
+      "stock": 91,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 174,
+      "name": "Aerospace X6",
+      "price": 111.99,
+      "stock": 56,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 175,
+      "name": "Airline Y6",
+      "price": 31.99,
+      "stock": 216,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 176,
+      "name": "Widget A7",
+      "price": 17.99,
+      "stock": 107,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 177,
+      "name": "Gadget B7",
+      "price": 22.99,
+      "stock": 207,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 178,
+      "name": "Food Product C7",
+      "price": 15.99,
+      "stock": 157,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 179,
+      "name": "Software Suite D7",
+      "price": 106.99,
+      "stock": 57,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 180,
+      "name": "Pharma E7",
+      "price": 32.99,
+      "stock": 307,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 181,
+      "name": "Tech Solution F7",
+      "price": 56.99,
+      "stock": 127,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 182,
+      "name": "Latex Product G7",
+      "price": 12.99,
+      "stock": 507,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 183,
+      "name": "Defense System H7",
+      "price": 157.99,
+      "stock": 37,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 184,
+      "name": "Diverse Product I7",
+      "price": 27.99,
+      "stock": 257,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 185,
+      "name": "Confectionery J7",
+      "price": 10.99,
+      "stock": 607,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 186,
+      "name": "Robotics K7",
+      "price": 206.99,
+      "stock": 47,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 187,
+      "name": "Bio-Robotic L7",
+      "price": 82.99,
+      "stock": 77,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 188,
+      "name": "AI System M7",
+      "price": 127.99,
+      "stock": 62,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 189,
+      "name": "Global Product N7",
+      "price": 92.99,
+      "stock": 87,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 190,
+      "name": "Energy Solution O7",
+      "price": 67.99,
+      "stock": 102,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 191,
+      "name": "Genetic Research P7",
+      "price": 52.99,
+      "stock": 117,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 192,
+      "name": "Tech Q7",
+      "price": 62.99,
+      "stock": 147,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 193,
+      "name": "Energy Supply R7",
+      "price": 37.99,
+      "stock": 167,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 194,
+      "name": "Software S7",
+      "price": 77.99,
+      "stock": 112,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 195,
+      "name": "Science T7",
+      "price": 97.99,
+      "stock": 82,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 196,
+      "name": "Oil and Gas U7",
+      "price": 57.99,
+      "stock": 137,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 197,
+      "name": "Consumer Product V7",
+      "price": 47.99,
+      "stock": 152,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 198,
+      "name": "Engineering W7",
+      "price": 72.99,
+      "stock": 92,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 199,
+      "name": "Aerospace X7",
+      "price": 112.99,
+      "stock": 57,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 200,
+      "name": "Airline Y7",
+      "price": 32.99,
+      "stock": 217,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 201,
+      "name": "Widget A8",
+      "price": 18.99,
+      "stock": 108,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 202,
+      "name": "Gadget B8",
+      "price": 23.99,
+      "stock": 208,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 203,
+      "name": "Food Product C8",
+      "price": 16.99,
+      "stock": 158,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 204,
+      "name": "Software Suite D8",
+      "price": 107.99,
+      "stock": 58,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 205,
+      "name": "Pharma E8",
+      "price": 33.99,
+      "stock": 308,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 206,
+      "name": "Tech Solution F8",
+      "price": 57.99,
+      "stock": 128,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 207,
+      "name": "Latex Product G8",
+      "price": 13.99,
+      "stock": 508,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 208,
+      "name": "Defense System H8",
+      "price": 158.99,
+      "stock": 38,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 209,
+      "name": "Diverse Product I8",
+      "price": 28.99,
+      "stock": 258,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 210,
+      "name": "Confectionery J8",
+      "price": 11.99,
+      "stock": 608,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 211,
+      "name": "Robotics K8",
+      "price": 207.99,
+      "stock": 48,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 212,
+      "name": "Bio-Robotic L8",
+      "price": 83.99,
+      "stock": 78,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 213,
+      "name": "AI System M8",
+      "price": 128.99,
+      "stock": 63,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 214,
+      "name": "Global Product N8",
+      "price": 93.99,
+      "stock": 88,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 215,
+      "name": "Energy Solution O8",
+      "price": 68.99,
+      "stock": 103,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 216,
+      "name": "Genetic Research P8",
+      "price": 53.99,
+      "stock": 118,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 217,
+      "name": "Tech Q8",
+      "price": 63.99,
+      "stock": 148,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 218,
+      "name": "Energy Supply R8",
+      "price": 38.99,
+      "stock": 168,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 219,
+      "name": "Software S8",
+      "price": 78.99,
+      "stock": 113,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 220,
+      "name": "Science T8",
+      "price": 98.99,
+      "stock": 83,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 221,
+      "name": "Oil and Gas U8",
+      "price": 58.99,
+      "stock": 138,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 222,
+      "name": "Consumer Product V8",
+      "price": 48.99,
+      "stock": 153,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 223,
+      "name": "Engineering W8",
+      "price": 73.99,
+      "stock": 93,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 224,
+      "name": "Aerospace X8",
+      "price": 113.99,
+      "stock": 58,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 225,
+      "name": "Airline Y8",
+      "price": 33.99,
+      "stock": 218,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    },
+    {
+      "id": 226,
+      "name": "Widget A9",
+      "price": 19.99,
+      "stock": 109,
+      "description": "High-quality industrial widget.",
+      "provider_id": 1
+    },
+    {
+      "id": 227,
+      "name": "Gadget B9",
+      "price": 24.99,
+      "stock": 209,
+      "description": "Advanced electronic gadget.",
+      "provider_id": 2
+    },
+    {
+      "id": 228,
+      "name": "Food Product C9",
+      "price": 17.99,
+      "stock": 159,
+      "description": "Sustainable and nutritious food product.",
+      "provider_id": 3
+    },
+    {
+      "id": 229,
+      "name": "Software Suite D9",
+      "price": 108.99,
+      "stock": 59,
+      "description": "Comprehensive software suite for business.",
+      "provider_id": 4
+    },
+    {
+      "id": 230,
+      "name": "Pharma E9",
+      "price": 34.99,
+      "stock": 309,
+      "description": "Biotechnology and pharmaceutical solution.",
+      "provider_id": 5
+    },
+    {
+      "id": 231,
+      "name": "Tech Solution F9",
+      "price": 58.99,
+      "stock": 129,
+      "description": "Innovative tech solution.",
+      "provider_id": 6
+    },
+    {
+      "id": 232,
+      "name": "Latex Product G9",
+      "price": 14.99,
+      "stock": 509,
+      "description": "High-quality latex product.",
+      "provider_id": 7
+    },
+    {
+      "id": 233,
+      "name": "Defense System H9",
+      "price": 159.99,
+      "stock": 39,
+      "description": "Cutting-edge defense system.",
+      "provider_id": 8
+    },
+    {
+      "id": 234,
+      "name": "Diverse Product I9",
+      "price": 29.99,
+      "stock": 259,
+      "description": "Product from a diverse industry.",
+      "provider_id": 9
+    },
+    {
+      "id": 235,
+      "name": "Confectionery J9",
+      "price": 12.99,
+      "stock": 609,
+      "description": "Innovative confectionery product.",
+      "provider_id": 10
+    },
+    {
+      "id": 236,
+      "name": "Robotics K9",
+      "price": 208.99,
+      "stock": 49,
+      "description": "Futuristic consumer robotics.",
+      "provider_id": 11
+    },
+    {
+      "id": 237,
+      "name": "Bio-Robotic L9",
+      "price": 84.99,
+      "stock": 79,
+      "description": "Genetic engineering and bio-robotics.",
+      "provider_id": 12
+    },
+    {
+      "id": 238,
+      "name": "AI System M9",
+      "price": 129.99,
+      "stock": 64,
+      "description": "Advanced AI and robotics.",
+      "provider_id": 13
+    },
+    {
+      "id": 239,
+      "name": "Global Product N9",
+      "price": 94.99,
+      "stock": 89,
+      "description": "Global conglomerate product.",
+      "provider_id": 14
+    },
+    {
+      "id": 240,
+      "name": "Energy Solution O9",
+      "price": 69.99,
+      "stock": 104,
+      "description": "Energy, tech, and real estate investment.",
+      "provider_id": 15
+    },
+    {
+      "id": 241,
+      "name": "Genetic Research P9",
+      "price": 54.99,
+      "stock": 119,
+      "description": "Leading genetic research product.",
+      "provider_id": 16
+    },
+    {
+      "id": 242,
+      "name": "Tech Q9",
+      "price": 64.99,
+      "stock": 149,
+      "description": "Advanced technology solution.",
+      "provider_id": 17
+    },
+    {
+      "id": 243,
+      "name": "Energy Supply R9",
+      "price": 39.99,
+      "stock": 169,
+      "description": "Major energy supplier product.",
+      "provider_id": 18
+    },
+    {
+      "id": 244,
+      "name": "Software S9",
+      "price": 79.99,
+      "stock": 114,
+      "description": "Innovative software and video game.",
+      "provider_id": 19
+    },
+    {
+      "id": 245,
+      "name": "Science T9",
+      "price": 99.99,
+      "stock": 84,
+      "description": "Leading edge science and technology.",
+      "provider_id": 20
+    },
+    {
+      "id": 246,
+      "name": "Oil and Gas U9",
+      "price": 59.99,
+      "stock": 139,
+      "description": "Oil and gas conglomerate product.",
+      "provider_id": 21
+    },
+    {
+      "id": 247,
+      "name": "Consumer Product V9",
+      "price": 49.99,
+      "stock": 154,
+      "description": "Diverse consumer product.",
+      "provider_id": 22
+    },
+    {
+      "id": 248,
+      "name": "Engineering W9",
+      "price": 74.99,
+      "stock": 94,
+      "description": "Interstellar engineering and R&D.",
+      "provider_id": 23
+    },
+    {
+      "id": 249,
+      "name": "Aerospace X9",
+      "price": 114.99,
+      "stock": 59,
+      "description": "Advanced propulsion and aerospace.",
+      "provider_id": 24
+    },
+    {
+      "id": 250,
+      "name": "Airline Y9",
+      "price": 34.99,
+      "stock": 219,
+      "description": "Global airline service product.",
+      "provider_id": 25
+    }
+]
